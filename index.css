@@ -9,7 +9,12 @@ h1{
     width: 100vw;
     border-top: 10px solid black;
     margin-top: 0;
+   
     
+}
+nav{
+    margin-top: 0;
+    margin-bottom: 0;
 }
 ul{
     display: flex;
