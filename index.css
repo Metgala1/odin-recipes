@@ -51,14 +51,17 @@ a:hover{
     border-radius: 4px;
 }
 .recipe-img{
-    width: 100vw;
+    width: 98vw;
     height: auto;
     margin-top: 0;
+    margin: auto;
+    border-radius: 10px;
 }
 img{
     width: 100%;
     height: auto;
     object-fit: cover;
+    border-radius: 10px;
 }
 
 
