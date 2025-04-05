@@ -6,6 +6,9 @@ body{
 }
 h1{
     text-align: center;
+    width: 100vw;
+    border-top: 10px solid black;
+    margin-top: 0;
     
 }
 ul{
@@ -16,6 +19,7 @@ ul{
     padding: 10px;
     justify-content: center;
     align-items: baseline;
+    margin-bottom: 3px;
 
 }
 li{
@@ -40,6 +44,16 @@ a:hover{
     background-color:  white;
     transition: background-color 1s;
     border-radius: 4px;
+}
+.recipe-img{
+    width: 100vw;
+    height: auto;
+    margin-top: 0;
+}
+img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
 
 
