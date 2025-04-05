@@ -29,7 +29,7 @@ a{
     text-decoration: none;
     font-size: 20px;
     display: block;
-    color: blue;
+    color: burlywood;
     padding: 5px;
 
 }
@@ -37,7 +37,7 @@ a:active{
     color: aqua;
 }
 a:hover{
-    background-color: white;
+    background-color:  white;
     transition: background-color 1s;
     border-radius: 4px;
 }
